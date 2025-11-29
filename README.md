@@ -38,6 +38,15 @@ urban_issues/
 
 ## Usage
 
+### CV-SUTA Assistant Interface
+
+In order to launch the CV-SUTA assistant interface, run
+
+```bash
+streamlit run app.py
+```
+
+Keep in mind that in order to get the reports, you are expected to have already trained a model, storing its weights under best_model.pth
 ### Training
 
 To train the model, run the `train.py` script. You can modify parameters in `config/train.yaml` or override them on the command line.
