@@ -1,4 +1,4 @@
-# Urban Issues Classifier
+# CV-SUTA: A Computer Vision-powered Smart Urban Triage Assistant based on ResNet18
 
 This project implements a deep learning model to classify images of urban issues (e.g., potholes, trash, graffiti). It uses a ResNet18 architecture and is built with PyTorch and Hydra.
 
