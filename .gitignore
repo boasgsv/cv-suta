@@ -12,3 +12,4 @@ venv/
 env/
 history.json
 outputs/
+saved_models/
