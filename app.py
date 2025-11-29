@@ -31,7 +31,7 @@ URBAN_ISSUES_METADATA = {
     8: {"label": "Potholes and Road Cracks", "priority": "High", "dept": "Roads & Transit", "action": "Dispatch rapid repair crew", "color": "red"},
 }
 
-MODEL_PATH = "model_weights.pth"
+MODEL_PATH = "best_model.pth"
 
 # --- Model Loading ---
 
