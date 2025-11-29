@@ -25,8 +25,8 @@ urban_issues/
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
-    cd urban_issues
+    git clone https://github.com/boasgsv/cv-suta/
+    cd cv-suta
     ```
 
 2.  **Set up the environment:**
