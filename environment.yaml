@@ -1,0 +1,19 @@
+name: urban_issues_env
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.12
+  - pytorch
+  - torchvision
+  - torchaudio
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - pandas
+  - tqdm
+  - pip
+  - pip:
+    - hydra-core
+    - pyprojroot
+    - kagglehub
