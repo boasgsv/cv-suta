@@ -60,7 +60,7 @@ There are two notebooks provided for analyzing the results:
 
 ## Data
 
-The dataset used is [Kaggle Urban Issues by Himan, A.](https://www.kaggle.com/datasets/akinduhiman/urban-issues-dataset) expected to be in the `data/` directory. It should follow organized by dataset name, split (`train`, `valid`, `test`) and then by object.
+The dataset used is [Kaggle Urban Issues by Himan, A.](https://www.kaggle.com/datasets/akinduhiman/urban-issues-dataset), which is expected to be found in the `data/` directory. It should be organized by dataset name, split (`train`, `valid`, `test`) and then by object.
 
 ```
 data/
