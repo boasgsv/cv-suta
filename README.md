@@ -40,7 +40,7 @@ urban_issues/
 
 ### CV-SUTA Assistant Interface
 
-![Alt text](images/dashboard.jpg)
+![Dashboard](images/dashboard.png)
 
 In order to launch the CV-SUTA assistant interface, run
 
