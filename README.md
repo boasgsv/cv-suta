@@ -60,16 +60,21 @@ There are two notebooks provided for analyzing the results:
 
 ## Data
 
-The dataset is expected to be in the `data/` directory. It should be organized by split (`train`, `valid`, `test`) and then by class folders.
+The dataset is expected to be in the `data/` directory. It should follow organized by dataset name, split (`train`, `valid`, `test`) and then by object.
 
 ```
 data/
-├── train/
-│   ├── class_a/
-│   └── class_b/
-├── valid/
-│   ├── ...
-└── test/
+├── class_a/
+│   ├── train/
+│   │   ├── images/ ... the jpg files go here
+│   │   ├── labels/ ... dataset contains .txt files (left unused)
+│   ├── test/
+│   │   ├── images/
+│   │   ├── labels/
+│   ├── validation/
+│   │   ├── images/
+│   │   ├── labels/
+└── class_b/
     ├── ...
 ```
 
